@@ -10,7 +10,9 @@
 
 ###
 
-<h1 align="center">export const MyProfile = () => (<h1> hey there 👋</h1>)</h1>
+<h1 align="center"><code>export const MyProfile = () => (<h1> Hello, World! 👋</h1>)</code></h1>
+
+
 
 ###
 
