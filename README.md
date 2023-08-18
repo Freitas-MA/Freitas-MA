@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">export const Name = () => (<h1> hey there 👋</h1>)</h1>
+<h1 align="center">export const MyProfile = () => (<h1> hey there 👋</h1>)</h1>
 
 ###
 
