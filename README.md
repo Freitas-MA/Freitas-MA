@@ -60,20 +60,15 @@
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Freitas-MA&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=Freitas-MA&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Freitas-MA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Freitas-MA&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=280" height="160" alt="top langs" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Freitas-MA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Freitas-MA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Freitas-MA&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="languages" />
 </div>
 
 ---
