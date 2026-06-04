@@ -3,10 +3,14 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Freitas-MA.Freitas-MA&" />
+  <img src="https://komarev.com/ghpvc/?username=Freitas-MA&label=Profile+Views&color=blueviolet&style=flat" alt="profile views" />
 </div>
 
 <h1 align="center"><code>export const MyProfile = () => (<h1> Hello, World! 👋</h1>)</code></h1>
+
+<p align="center">
+  <em>I ship pixels by day, train AI agents by night, and write Rust just for fun 🤫</em>
+</p>
 
 ---
 
@@ -14,10 +18,10 @@
 
 <p align="left">
 🚀 <strong>Frontend Engineer & Fullstack Developer</strong> with 4+ years of experience building scalable web platforms — remote from Portugal.<br><br>
-🏥 Currently embedded at <strong>Loblaw Digital / PC Health</strong> (via Hexa Consulting) — working on a large-scale Next.js 15.5 monorepo powering 18+ micro-frontends for Shoppers Drug Mart & Pharmaprix (1M+ users).<br><br>
-⚖️ Also delivering <strong>Dennemeyer IP Management</strong> platform (via YSUN Digital Transformation) — a LegalTech system for global patent & trademark portfolio management.<br><br>
-🤖 Beyond client work, I build tools at the intersection of software engineering and AI. <strong>Brainiak</strong> is my open-source project: an AI coding assistant system written in <strong>Rust</strong>, focused on context optimization and token cost reduction for LLM-powered coding agents — tackling redundant token consumption in agentic AI workflows.<br><br>
-🌐 <strong>Languages:</strong> Portuguese (Native) · English (C1)<br><br>
+🏥 Currently embedded at <strong>Loblaw Digital / PC Health</strong> (via Hexa Consulting) — Next.js 15.5 monorepo, 18+ micro-frontends, Shoppers Drug Mart & Pharmaprix (1M+ users).<br><br>
+⚖️ Also delivering <strong>Dennemeyer IP Management</strong> (via YSUN Digital Transformation) — LegalTech platform for global patent & trademark portfolio management.<br><br>
+🤖 Beyond client work, I build <strong>Brainiak</strong> — an open-source AI coding assistant written in <strong>Rust</strong> that optimizes context and cuts redundant token cost in agentic LLM workflows. Because burning $$ on duplicate context isn't vibe-coding 😅<br><br>
+🌍 <strong>Languages:</strong> Portuguese (Native) · English (C1)<br><br>
 🔗 <a href="https://mfreitas.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/freitas-marcos/">LinkedIn</a> · <a href="https://github.com/Freitas-MA">GitHub</a>
 </p>
 
@@ -28,27 +32,27 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" title="Next.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" title="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" title="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust" title="Rust" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss" title="Tailwind CSS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" title="Azure DevOps" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook" title="Storybook" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="vitest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="vitest" title="Vitest" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" alt="playwright" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" alt="playwright" title="Playwright" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" title="VS Code" />
 </div>
 
 ---
@@ -56,12 +60,20 @@
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Freitas-MA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Freitas-MA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Freitas-MA&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak stats" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Freitas-MA/count.svg?" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Freitas-MA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Freitas-MA&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="top langs" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Freitas-MA&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
 </div>
 
 ---
@@ -71,6 +83,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
   </a>
   <a href="https://mfreitas.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="portfolio" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" width="52" height="40" alt="portfolio" />
   </a>
+</div>
+
+<div align="center">
+  <sub>🇵🇹 Made with ☕ + 🦖 in Coimbra</sub>
 </div>
