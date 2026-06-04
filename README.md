@@ -66,9 +66,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Freitas-MA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Freitas-MA&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Freitas-MA&theme=tokyonight" height="165" alt="stats" />
+    &nbsp;
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Freitas-MA&theme=tokyonight" height="165" alt="languages" />
 </div>
 
 ---
